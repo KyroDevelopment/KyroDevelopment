@@ -6,6 +6,9 @@
   </a>
 </p>
 
+## ℹ️ About Me
+Hi, I’m Frizzy, founder of KyroDevelopment. I build creative tech projects, websites, Discord bots, hosting tools, and futuristic systems like Home Security and J.A.R.V.I.S. I’m always working on something new, and any support helps me keep building, testing, and improving my ideas. I am a qualified Electrical/Mechanical Engineer, so all my projects are completed in my own time as i am learning new skills. 
+
 ## 🧠 My Focus Areas
 - Web Development
 - Discord Bots
